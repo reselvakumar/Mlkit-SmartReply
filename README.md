@@ -12,7 +12,11 @@ to conversation threads in your application [Kotlin].
 
 - [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
 - Run the sample on an Android device.
-- Type input text and press the buttons to identify languages.
+- Type input text and it will show suggestion.
+
+
+## Demo
+[Demo.apk](demo/demo.apk)
 
 ## License
 [APACHE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
